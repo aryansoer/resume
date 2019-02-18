@@ -19,7 +19,7 @@ body {
     width: 230mm;
     height: 325mm;
     margin: 0 auto;
-    padding: 8mm;
+    padding: 5mm 8mm;
     background-color: #FAFAFA;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 #edu-section {
-    margin-top: 3.4rem;
+    margin-top: 1rem;
 }
 
 .section:last-child {
