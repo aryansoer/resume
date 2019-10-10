@@ -120,7 +120,7 @@ body {
 
 .timeline__content {
     width: calc(100% - 18mm);
-    padding: .1em 0 2.2em 1.2em;
+    padding: .1em 0 1.6em 1.2em;
     border-left: 1px dashed gray;
 }
 
