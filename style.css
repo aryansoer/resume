@@ -19,7 +19,7 @@ body {
   height: 325mm;
   margin: 0 auto;
   padding: 2mm 4mm;
-  background-color: #fbfbfb;
+  background-color: white;
 }
 
 .heading {
@@ -150,5 +150,6 @@ body {
 }
 
 .timeline__subtitle {
-  margin: 0.35em 0 0.25em 0;
+  margin: 0.35em 0 0.3em 0;
+  font-weight: bold;
 }
